@@ -5,5 +5,6 @@ public class LeapYearCheck20 {
         for(int i = 1; i <= n; i++) {
             result += i;
         }
+        System.out.println("Result is: " + result);
     }
 }
