@@ -8,4 +8,4 @@ public class ArraySumDemo65 {
         System.out.println("Result is: " + result);
     }
 }
-// Revision block 6
+// Revision block 7
