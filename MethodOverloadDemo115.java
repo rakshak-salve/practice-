@@ -3,5 +3,6 @@ public class MethodOverloadDemo115 {
         return a * 2;
     }
     public static void main(String[] args) {
+        System.out.println(compute(5));
     }
 }
