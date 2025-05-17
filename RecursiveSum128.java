@@ -3,5 +3,6 @@ public class RecursiveSum128 {
         return a * 2;
     }
     public static void main(String[] args) {
+        System.out.println(compute(5));
     }
 }
