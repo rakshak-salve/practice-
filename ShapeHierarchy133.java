@@ -3,4 +3,7 @@ public class ShapeHierarchy133 {
     public ShapeHierarchy133(String id) {
         this.id = id;
     }
+    public String getId() {
+        return id;
+    }
 }
