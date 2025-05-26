@@ -6,4 +6,8 @@ public class BankAccount137 {
     public String getId() {
         return id;
     }
+    public static void main(String[] args) {
+        BankAccount137 obj = new BankAccount137("123");
+        System.out.println(obj.getId());
+    }
 }
