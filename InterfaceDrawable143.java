@@ -11,4 +11,4 @@ public class InterfaceDrawable143 {
         System.out.println(obj.getId());
     }
 }
-// Revision block 6
+// Revision block 7
