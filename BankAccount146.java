@@ -3,4 +3,7 @@ public class BankAccount146 {
     public BankAccount146(String id) {
         this.id = id;
     }
+    public String getId() {
+        return id;
+    }
 }
