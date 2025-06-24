@@ -3,4 +3,7 @@ public class ShapeHierarchy166 {
     public ShapeHierarchy166(String id) {
         this.id = id;
     }
+    public String getId() {
+        return id;
+    }
 }
