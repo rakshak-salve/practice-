@@ -6,4 +6,8 @@ public class InterfaceDrawable169 {
     public String getId() {
         return id;
     }
+    public static void main(String[] args) {
+        InterfaceDrawable169 obj = new InterfaceDrawable169("123");
+        System.out.println(obj.getId());
+    }
 }
