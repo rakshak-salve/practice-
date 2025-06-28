@@ -6,4 +6,8 @@ public class ShapeHierarchy170 {
     public String getId() {
         return id;
     }
+    public static void main(String[] args) {
+        ShapeHierarchy170 obj = new ShapeHierarchy170("123");
+        System.out.println(obj.getId());
+    }
 }
