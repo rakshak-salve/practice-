@@ -1,3 +1,6 @@
 public class InterfaceDrawable178 {
     private String id;
+    public InterfaceDrawable178(String id) {
+        this.id = id;
+    }
 }
