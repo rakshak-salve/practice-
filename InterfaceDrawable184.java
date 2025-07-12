@@ -3,4 +3,7 @@ public class InterfaceDrawable184 {
     public InterfaceDrawable184(String id) {
         this.id = id;
     }
+    public String getId() {
+        return id;
+    }
 }
