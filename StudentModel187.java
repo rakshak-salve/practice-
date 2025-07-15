@@ -1,3 +1,6 @@
 public class StudentModel187 {
     private String id;
+    public StudentModel187(String id) {
+        this.id = id;
+    }
 }
