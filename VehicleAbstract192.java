@@ -6,4 +6,8 @@ public class VehicleAbstract192 {
     public String getId() {
         return id;
     }
+    public static void main(String[] args) {
+        VehicleAbstract192 obj = new VehicleAbstract192("123");
+        System.out.println(obj.getId());
+    }
 }
