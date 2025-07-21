@@ -6,4 +6,8 @@ public class StudentModel193 {
     public String getId() {
         return id;
     }
+    public static void main(String[] args) {
+        StudentModel193 obj = new StudentModel193("123");
+        System.out.println(obj.getId());
+    }
 }
