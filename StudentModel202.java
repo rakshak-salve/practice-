@@ -3,4 +3,7 @@ public class StudentModel202 {
     public StudentModel202(String id) {
         this.id = id;
     }
+    public String getId() {
+        return id;
+    }
 }
