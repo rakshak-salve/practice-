@@ -3,4 +3,7 @@ public class VehicleAbstract210 {
     public VehicleAbstract210(String id) {
         this.id = id;
     }
+    public String getId() {
+        return id;
+    }
 }
