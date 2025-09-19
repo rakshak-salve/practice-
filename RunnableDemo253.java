@@ -1,6 +1,9 @@
 public class RunnableDemo253 implements Runnable {
     public void run() {
-        System.out.println("Thread running");
+        try {
+            Thread.sleep(1000);
+            System.out.println("Thread finished");
+        } catch(InterruptedException e) {}
     }
     public static void main(String[] args) {
         Thread t = new Thread(new RunnableDemo253());
