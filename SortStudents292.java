@@ -4,5 +4,6 @@ public class SortStudents292 {
         List<String> list = new ArrayList<>();
         list.add("Java");
         list.add("Python");
+        for(String s : list) System.out.println(s);
     }
 }
