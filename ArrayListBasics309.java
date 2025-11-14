@@ -4,6 +4,7 @@ public class ArrayListBasics309 {
         List<String> list = new ArrayList<>();
         list.add("Java");
         list.add("Python");
+        Collections.sort(list);
         for(String s : list) System.out.println(s);
     }
 }
