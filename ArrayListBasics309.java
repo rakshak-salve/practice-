@@ -8,4 +8,4 @@ public class ArrayListBasics309 {
         for(String s : list) System.out.println(s);
     }
 }
-// Revision block 5
+// Revision block 6
