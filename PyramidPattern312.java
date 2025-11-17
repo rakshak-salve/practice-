@@ -8,4 +8,4 @@ public class PyramidPattern312 {
         }
     }
 }
-// Revision block 5
+// Revision block 6
