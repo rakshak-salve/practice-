@@ -1,0 +1,5 @@
+public class NumberSeries329 {
+    public static void main(String[] args) {
+        int rows = 5;
+    }
+}
